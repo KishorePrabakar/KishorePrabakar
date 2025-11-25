@@ -1,3 +1,3 @@
 # Hi, I am Kishore Prabakar 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KishorePrabakar&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=KishorePrabakar&theme=dark)](https://git.io/streak-stats)
