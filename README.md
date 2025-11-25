@@ -1,3 +1,3 @@
 # Hi, I am Kishore Prabakar 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KishorePrabakar&theme=dark)
+[![GitHub Streak](https://streak-stats.vercel.app?user=KishorePrabakar&theme=dark)](https://git.io/streak-stats)
