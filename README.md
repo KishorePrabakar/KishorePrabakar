@@ -2,11 +2,8 @@
 ---
 
 ## 🔥 GitHub Streak  
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="[https://streak-stats.demolab.com?user=KishorePrabakar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D](https://github-readme-stats.vercel.app/api?username=KishorePrabakar&theme=default&show_icons=true&hide_border=true&count_private=true)" alt="GitHub Streak" />
-</p>
 
+![GitHub Stats](https://streak-stats.demolab.com?user=KishorePrabakar&theme=default&hide_border=true)
 ---
 
 ## 📊 GitHub Stats  
