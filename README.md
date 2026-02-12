@@ -1,7 +1,7 @@
 # Hi, I am Kishore Prabakar 👋
 ## projects:
-[Briefly](https://github.com/KishorePrabakar/briefly) — AI-powered meeting notes assistant: turns raw text into summary, tasks and decisions in seconds
-[Sift](https://github.com/yourusername/sift) — Simple Amazon product comparison tool: paste links → see prices, ratings & features side-by-side + best value pick.
+- [Briefly](https://github.com/KishorePrabakar/briefly) — AI-powered meeting notes assistant: turns raw text into summary, tasks and decisions in seconds
+- [Sift](https://github.com/yourusername/sift) — Simple Amazon product comparison tool: paste links → see prices, ratings & features side-by-side + best value pick.
 <!--
 <div align="center">
 
