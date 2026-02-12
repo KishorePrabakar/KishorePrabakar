@@ -10,8 +10,8 @@
 </div>
 -->
 ## 🛠 Technical Focus
--Computer Science student building full-stack applications
--Focused on backend development, APIs, and database design
--Interested in AI applications that solve practical problems
--Improving problem-solving through DSA and core CS fundamentals
--Learning by building and shipping small, functional projects
+- Computer Science student building full-stack applications
+- Focused on backend development, APIs, and database design
+- Interested in AI applications that solve practical problems
+- Improving problem-solving through DSA and core CS fundamentals
+- Learning by building and shipping small, functional projects
