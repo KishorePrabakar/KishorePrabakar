@@ -1,5 +1,5 @@
-# Hi, I am Kishore Prabakar 👋
-## projects:
+Hi, I am Kishore Prabakar 👋
+projects:
 - [Briefly](https://github.com/KishorePrabakar/briefly) — AI-powered meeting notes assistant: turns raw text into summary, tasks and decisions in seconds
 - [Sift](https://github.com/KishorePrabakar/sift) — Simple Amazon product comparison tool: paste links → see prices, ratings & features side-by-side + best value pick.
 <!--
@@ -9,7 +9,7 @@
 
 </div>
 -->
-## 🛠 Technical Focus
+🛠 Technical Focus
 - Computer Science student building full-stack applications
 - Focused on backend development, APIs, and database design
 - Interested in AI applications that solve practical problems
