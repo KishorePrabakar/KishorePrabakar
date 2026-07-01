@@ -1,51 +1,47 @@
-# Hey, I'm Kishore Prabakar 👋
+# Hi, I'm Kishore Prabakar 👋
 
-Building systems that solve real problems. Backend engineer focused on scalability, clean architecture, and understanding *why* things work the way they do.
-
-Currently preparing for backend engineering roles and deepening my foundation in distributed systems, APIs, and database design.
+Backend engineer building systems that matter. I care about depth over shortcuts — writing code I can defend, understanding what's underneath, and learning relentlessly.
 
 ---
 
-## 🏗️ Projects
+## Featured Projects
 
-### Core Backend Work
-**[EMRMS (Emergency Medical Resource Matcher)](https://github.com/KishorePrabakar/EMRMS-GoLang)** — Go  
-A geospatial matching service that helps hospitals and donors connect during medical emergencies. Features distance-based ranking, reservation locks, and real-time availability tracking.
-- Golang, REST APIs, geospatial queries, concurrency patterns
-- Learned: HTTP fundamentals, goroutines, in-memory state management
+### [Emergency Medical Resource Matcher](https://github.com/KishorePrabakar/EMRMS-GoLang)
+**Go · REST API · Geospatial Matching · In-Memory State Management**
 
-**[Campus Utility API](https://github.com/KishorePrabakar/campus-utility-api)** — Go  
-Multi-module backend service: user authentication (JWT), rate-limited link shortening, and event check-in validation. Demonstrates clean API architecture with middleware and separated concerns.
-- Golang, JWT auth, middleware patterns, rate limiting
-- Learned: authentication design, modular Go architecture, request lifecycle
+A backend service that helps hospitals and donors find critical medical resources during emergencies. When a hospital requests blood or medication, the API ranks available donors/resources by proximity, prevents double-booking through atomic status updates, and notifies the nearest matches.
 
-### Earlier Work
-**[Briefly](https://github.com/KishorePrabakar/briefly)** — AI-powered meeting notes assistant  
-Turns raw meeting transcripts into structured summaries, action items, and decisions. Explores NLP and text processing.
-
-**[Sift](https://github.com/KishorePrabakar/sift)** — Product comparison tool  
-Paste Amazon links → compare prices, ratings, and specs side-by-side with auto-detected best value.
+**What I learned:** REST API design, Go error handling patterns, coordinate-based ranking algorithms, managing shared mutable state safely, HTTP status codes as contract between client and server.
 
 ---
 
-## 🛠️ Stack & Interests
+### [Campus Utility Platform](https://github.com/KishorePrabakar/campus-utility-api)
+**Go · Modular Architecture · Authentication · Rate Limiting**
 
-**Languages:** Go (primary focus), Java, JavaScript  
-**Backend:** REST APIs, HTTP fundamentals, database design, authentication  
-**Tools:** Git, PostgreSQL, Postman, VSCode  
-**Learning:** Concurrency, microservices patterns, system design
+A multi-module backend service demonstrating clean separation of concerns:
+- **Auth Module:** JWT-based user registration and login with bcrypt password hashing
+- **Link Shortener:** Rate-limited URL shortening with analytics tracking
+- **Event Check-in:** Ticket validation preventing duplicate check-ins
+
+Built with middleware patterns and package-level organization so each domain is independent yet shares core concerns (auth, logging, error handling).
+
+**What I learned:** Middleware architecture, JWT implementation, rate limiting strategies, organizing code for scale, how real backends structure multiple features without coupling.
 
 ---
 
-## 📊 GitHub Activity
+### [VSB APEX](https://github.com/VSBEC-IT-OSS/VSB-APEX)
+**Full Stack · Open Source Contribution**
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=KishorePrabakar&theme=dark)](https://git.io/streak-stats)
+Contributed to an open-source educational platform focused on student engagement and academic excellence. Involved in backend infrastructure and feature development for a multi-module system serving a large student community.
 
 ---
 
-## 🎯 Philosophy
+## Skills
 
-I believe in learning *deeply*, not just clearing tests. Every project I build teaches me something that compounds long-term — understanding HTTP semantics, why data structures exist, how to handle failure gracefully. My goal is to become the kind of engineer who builds systems others depend on, not someone who memorizes patterns.
+**Languages:** Go, Java, JavaScript  
+**Backend:** REST APIs, HTTP fundamentals, Authentication (JWT), Database design, Error handling  
+**Architecture:** Modular design, Clean code, Middleware patterns  
+**Tools:** Git, Postman/Insomnia, VSCode
 
 ---
 
@@ -53,3 +49,12 @@ I believe in learning *deeply*, not just clearing tests. Every project I build t
 
 Always interested in discussing backend design, system architecture, or engineering philosophy.  
 [LinkedIn](https://linkedin.com/in/KishorePrabakar24) | [Twitter](https://twitter.com/kraxonstar)
+
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=KishorePrabakar&theme=dark)](https://git.io/streak-stats)
+
+**Let's talk about backend systems, Go, or how to stay sane while learning deeply.**
+
+</div>
