@@ -6,6 +6,15 @@ Backend engineer building systems that matter. I care about depth over shortcuts
 
 ## Featured Projects
 
+### [AlphaRook](https://github.com/KishorePrabakar/alpharook)
+**Go · WebSockets · Goroutines · React**
+
+A real-time multiplayer chess game where players create rooms and play seamlessly. Built a concurrent backend architecture that leverages goroutines and channels to safely manage state across multiple active game rooms and WebSocket connections simultaneously.
+
+**What I learned:** Building stateful WebSocket servers in Go, using concurrency primitives (channels/mutexes) to avoid data races in shared memory, and designing low-latency bidirectional communication flows.
+
+---
+
 ### [Emergency Medical Resource Matcher](https://github.com/KishorePrabakar/EMRMS-GoLang)
 **Go · REST API · Geospatial Matching · In-Memory State Management**
 
@@ -53,7 +62,7 @@ Always interested in discussing backend design, system architecture, or engineer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=KishorePrabakar&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.vercel.app?user=KishorePrabakar&theme=dark)](https://git.io/streak-stats) -->
 
 **Let's talk about backend systems, Go, or how to stay sane while learning deeply.**
 
